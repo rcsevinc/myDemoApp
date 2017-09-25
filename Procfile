@@ -1,1 +1,1 @@
-web: java -jar "/home/ubuntu/workspace/myDemoApp/target/helloworld.jar"
+web: java -jar target/helloworld.jar
